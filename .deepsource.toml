@@ -1,0 +1,7 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/sushmitha1506/IBM-AdvGo-Dec-2022"
